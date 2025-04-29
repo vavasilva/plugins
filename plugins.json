@@ -1845,7 +1845,7 @@
   {
     "name": "serverless-configure-lambda-logs",
     "description": "Plugin that configures Lambda logs with CloudWatch log groups and subscriptions",
-    "githubUrl": "https://github.com/vavasilva/serverless-configure-lamba-logs",
+    "githubUrl": "https://github.com/vavasilva/serverless-configure-lambda-logs",
     "status": "active"
   }
 ]
